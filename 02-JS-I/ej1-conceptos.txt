@@ -1,0 +1,6 @@
+1.
+  Variables: son porciones de memoria como si fueran cajas donde se guardan datos de diferentes tipos.
+  Strings: Son cadenas de texto. Caracteres letras, numeros y simbolos uno al lado del otro.
+  Funciones: Partes de codigo que cumplen funciones puntuales. Sus argumentos son los valores que necesita para funcionar. 'return' especifica que valor devuelve.
+  Declaraciones 'if': Sirven para "enseñar" a la maquina que hacer si se cumple determinada condicion.
+  Valores booleanos: Solo pueden tomar dos valores: 1 o 0, verdadero o falso, encendido o apagado. No tiene intermedio ni matices: es una cosa o la otra.
