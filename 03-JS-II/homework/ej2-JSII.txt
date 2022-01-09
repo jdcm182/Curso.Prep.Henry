@@ -1,0 +1,10 @@
+
+
+
+* `for`
+  Es una sentencia de repeticion para iterar una cierta cantidad de veces conocida de antemano.
+
+* `&&`, `||`, `!`
+  &&: AND. Y. Operador logico que devuelve true solo cuando ambos operandos son true. Resto de casos false.
+  ||: OR. O. Operador logico que devuelve false solo cuando ambos operandos son false. Resto de casos true.
+  !: NOT. NO. Operador de negacion. Invierte true a false y false a true de la expresion que antecede.
