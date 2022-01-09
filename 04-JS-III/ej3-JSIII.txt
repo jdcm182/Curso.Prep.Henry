@@ -1,0 +1,4 @@
+
+
+	* Arrays
+        Son variables que contienen variables adentro. Ideal para formar listas de elementos de cualquier tipo ya que permite acceder mediante un indice. 
