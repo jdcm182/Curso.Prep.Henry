@@ -1,0 +1,10 @@
+	* Objetos
+        Son variables que contienen mas variables diferentes dentro de si pero que guardan una relacion entre ellas.
+	* Propiedades
+        Son variables dentro de objetos que contienen informacion referente al elemento representado.
+	* Métodos
+        Son funciones dentro del objeto que efectuan determinadas acciones dentro del objeto que las llama.
+	* Bucle `for…in`
+        Es una simplificacion del bucle for en el que se ahorra la necesidad de especificar la cantidad de veces a iterar, lo que permite desconocer la cantidad de elementos que componen, por ejemplo, un array.
+	* Notación de puntos vs notación de corchetes
+        La notacion de puntos es mas simple para escribir pero menos 'dinamica'. Tiene que si o si especificarse explicitamente el nombre del atributo al que se quiere hacer referencia. La notacion de corchetes es mas dinámica en el sentido de que se pueden construir nombres de atributos mediante la concatenacion de variables y/o constantes.
