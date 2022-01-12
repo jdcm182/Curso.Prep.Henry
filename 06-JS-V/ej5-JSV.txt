@@ -1,0 +1,6 @@
+* `prototype`
+    Es el lugar donde se guardan los metodos que van a ser comun a todos los objetos de la clase. Con esto se ahorra memoria al no necesitar crear metodos repetidos en cada objeto.
+
+
+* _Constructors_ (de Clases)
+    Son las funciones que se ejecutan al crear un objeto nuevo. Se usan para inicializar los valores de la instancia.
