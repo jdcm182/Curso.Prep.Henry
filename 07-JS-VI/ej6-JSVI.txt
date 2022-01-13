@@ -1,0 +1,3 @@
+
+* Funciones Callback
+    Son funciones pasadas como parametro dentro de otras funciones.
